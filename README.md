@@ -1,2 +1,2 @@
 # blahg
-blah blah blah
+blah blah blah (a blog)
